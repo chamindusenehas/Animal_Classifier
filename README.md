@@ -38,7 +38,7 @@ The app is designed to visualize the model's capabilities, making it easy for us
 ## Demo
 Watch a quick demo of the app in action:
 
-[![Animal Classification Demo](media/how-to-do-Cat-and-Dog-Classification-using-CNN_-How-to-do-Cat-and-Dog-Classification-using-CNN_-01-scaled.jpg)](https://raw.githubusercontent.com/your-username/animal-classification-app/main/media/demo.mp4)
+[![Animal Classification Demo](media/how-to-do-Cat-and-Dog-Classification-using-CNN_-How-to-do-Cat-and-Dog-Classification-using-CNN_-01-scaled.jpg)](https://raw.githubusercontent.com/your-username/animal-classification-app/main/media/demo.mkv)
 
 *Click the image above to see the video.*
 <h5><i><center>Created by Chamindu Senehas</center></i></h5>

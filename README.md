@@ -38,6 +38,6 @@ The app is designed to visualize the model's capabilities, making it easy for us
 ## Demo
 Watch a quick demo of the app in action:
 
-[![Animal Classification Demo](media/demo.gif)]
+[Animal Classification Demo](media/demo.gif)
 *Click the image above to see the video.*
 <h5><i><center>Created by Chamindu Senehas</center></i></h5>

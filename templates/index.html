@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Animal Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">Animal Predictor</h1>
+        
+        <div class="upload-section" id="uploadSection">
+            <input type="file" id="imageInput" accept="image/*" class="file-input" style="display: none;">
+            <label for="imageInput" class="custom-file-button">Add File</label>
+            <button onclick="uploadImage()" id="predictButton">Upload & Predict</button>
+        </div>
+
+        <div class="preview" id="preview">
+            <img id="previewImage" src="" alt="Image Preview" style="display: none;">
+        </div>
+
+        <div class="result hidden" id="result">
+            <h3>Animal: <span id="predictionText">Awaiting image...</span></h3>
+            <h3>Confidence: <span id="confidence">--%</span></h3>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

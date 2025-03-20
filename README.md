@@ -35,9 +35,8 @@ The app is designed to visualize the model's capabilities, making it easy for us
   <li>Thanks to the open-source community for tools like Flask and TensorFlow/PyTorch.</li>
 </ol>
 <br>
-## Demo
+
 Watch a quick demo of the app in action:
 
-[Animal Classification Demo](media/demo.gif)
-*Click the image above to see the video.*
+![Animal Classification Demo](media/demo.gif)
 <h5><i><center>Created by Chamindu Senehas</center></i></h5>

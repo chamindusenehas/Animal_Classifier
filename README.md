@@ -1,5 +1,5 @@
 
-<h1>Animal Classification Model with Flask Visualization</h1>
+<h1>Animal Classification Model</h1>
 <br>
 <h2>Overview</h2>
 <p>This project is an Animal Classification Model built using a Convolutional Neural Network (CNN) architecture with transfer learning and data augmentation. The model achieves very high accuracy and can predict 15 different animal classes. It is integrated into a Flask web application with an API to provide an interactive user experience, allowing users to upload images and receive real-time predictions with confidence scores.
